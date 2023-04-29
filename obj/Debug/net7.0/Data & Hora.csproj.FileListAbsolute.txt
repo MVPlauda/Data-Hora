@@ -1,0 +1,15 @@
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\bin\Debug\net7.0\Data & Hora.exe
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\bin\Debug\net7.0\Data & Hora.deps.json
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\bin\Debug\net7.0\Data & Hora.runtimeconfig.json
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\bin\Debug\net7.0\Data & Hora.dll
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\bin\Debug\net7.0\Data & Hora.pdb
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.csproj.AssemblyReference.cache
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.AssemblyInfoInputs.cache
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.AssemblyInfo.cs
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.csproj.CoreCompileInputs.cache
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.dll
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\refint\Data & Hora.dll
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.pdb
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\Data & Hora.genruntimeconfig.cache
+C:\Users\plaud\Desktop\C#\3 - Data & Hora\obj\Debug\net7.0\ref\Data & Hora.dll
